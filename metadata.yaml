@@ -1,0 +1,42 @@
+_repo: Two-Penniless-Princesses_2942
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Yonge, Charlotte M. (Charlotte Mary)
+    aliases:
+    - Yonge, C. M. (Charlotte Mary)
+    - Yonge, Charlotte Mary
+    birthdate: 1823
+    deathdate: 1901
+    gutenberg_agent_id: '945'
+    url: http://www.gutenberg.org/2009/agents/945
+    wikipedia: http://en.wikipedia.org/wiki/Charlotte_Mary_Yonge
+description: This engaging tale offers a slightly different take on the reign of James
+  II of Scotland. Instead of focusing on the conflict-riven period of rule of the
+  popular king, Two Penniless Princesses follows his sisters and their efforts serving
+  as roving ambassadors of sorts to royal courts across Europe.
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2001-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2942'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Fiction'
+- !lcsh 'Chivalry -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Knights and knighthood -- Fiction'
+- !lcsh 'Princesses -- Fiction'
+- !lcsh 'France -- History -- Charles VII, 1422-1461 -- Fiction'
+- !lcc 'PZ'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'Marriage -- Fiction'
+- !lcsh 'Scotland -- History -- James II, 1437-1460 -- Fiction'
+- !lcsh 'Brothers and sisters -- Fiction'
+- !lcsh 'Prisoners -- Fiction'
+- GITenberg
+title: Two Penniless Princesses
+url: http://www.gutenberg.org/ebooks/2942
