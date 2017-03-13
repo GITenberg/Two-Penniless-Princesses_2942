@@ -1,5 +1,8 @@
 _repo: Two-Penniless-Princesses_2942
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Yonge, Charlotte M. (Charlotte Mary)
@@ -15,6 +18,8 @@ description: This engaging tale offers a slightly different take on the reign of
   II of Scotland. Instead of focusing on the conflict-riven period of rule of the
   popular king, Two Penniless Princesses follows his sisters and their efforts serving
   as roving ambassadors of sorts to royal courts across Europe.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2942#Two-Penniless-Princesses
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2001-12-01'
 gutenberg_type: Text
